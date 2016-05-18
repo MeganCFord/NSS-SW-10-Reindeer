@@ -28,7 +28,7 @@ cd 10-reindeer
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-10-Reindeer)
 
 
 ![screenshot](reindeer-screenshot.jpg)
